@@ -1,0 +1,84 @@
+body{
+    background-color: hsl(204, 43%, 93%);
+    font-family: 'karla';
+}
+.container{
+    background-color: white;
+    height: 400px;
+    width: 650px;
+    border-radius: 8px 8px 0 0;
+    display: block;
+    margin: auto;
+    margin-top: 70px;
+}
+.community{
+    padding: 4%;
+}
+.community h2{
+    color: hsl(179, 62%, 43%);
+}
+.community h3{
+    color: hsl(71, 73%, 54%);
+}
+.community p{
+    color: hsl(203, 9%, 61%);
+}
+.content{
+    display: flex;
+    text-align: left;
+    height: 260px;
+    color: white;
+    position: relative;
+}
+.mon{
+    font-size: 20px;
+}
+.sub{
+    background-color: hsl(179, 62%, 43%);
+    height: 300px; 
+    width: 800px;
+    border-radius: 0 0 0 8px;
+}
+.cont{
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: left;
+    
+}
+.contt{
+    position: relative;
+    left: 10px;
+}
+.dolar{
+    display: flex;
+    text-align: center;
+}
+.sub span{
+    font-size: 40px;
+    margin-right: 8px;
+}
+button{
+    background-color: hsl(71, 73%, 54%);
+    color: white;
+    width: 250px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px rgb(92, 92, 92);
+    display: block;
+    margin: auto;
+    position: relative;
+}
+.whyUs{
+    background-color: hsl(179, 58%, 52%);
+    height: 300px;
+    width: 800px;
+    border-radius: 0 0 8px;
+}
+.whyUs h4{
+    font-size: 20px;
+}
+.whyUs p{
+    line-height: 10px;
+}
